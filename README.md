@@ -1,6 +1,6 @@
 ## About Me 👋
 💻 CS Student @ QUT, minor in Intelligent Systems<br/>
-🌱 Interested in AI/ML, currently exploring computer vision<br/>
+🌱 Passionate about software dev, AI/ML, exploring computer vision<br/>
 
 
 ## 🌐 Let's Connect:
